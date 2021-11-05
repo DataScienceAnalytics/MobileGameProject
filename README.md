@@ -1,6 +1,11 @@
 # MobileGameProject
 A mobile game data science project 
 
+![image-4.png](attachment:image-4.png)
+<br> Author: Raymond Peng 
+<br> Contact Info: raymond.peng@mail.mcgill.ca
+<br> Linkedin: www.linkedin.com/in/raymond-square-enix/
+
 <b>Stakeholder</b>:
    - Game designer
 
