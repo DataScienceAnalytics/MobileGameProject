@@ -24,6 +24,6 @@ A mobile game data science project
    
 <b>Solutions</b>:
    - Identify potential paid users from the new users who finished tutorial with a <b>classification model</b> based on features that are known by the end of tutorial
-   - The classifcation model should focus on <b>recall ratio while keeping a good accuracy</b> since we want to identify as many actual paid users as possible
+   - The classification model should focus on <b>recall ratio while keeping a good accuracy</b> since we want to identify as many actual paid users as possible
    - <b>Segment users who completed the tutorial</b> into different tiers based on their tutorial engagement levels which are reflected by <b>stats_xp variables</b> using <b>clustering</b>. Present the user behaviors under each tiers to game designers and discuss what prices or offers should be given correspondingly. <br>The cluster model can be used to label future new users to a tier
    - <b>Deploy the models</b> mentioned above into production after discussion with game desginer and the data science team (deployment process will not be included in this notebook)
