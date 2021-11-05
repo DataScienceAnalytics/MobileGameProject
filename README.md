@@ -21,6 +21,7 @@ A mobile game data science project
    - All the stats_xp metrics mentioned above are <b>independent</b> from each other. They are not cumulative based on previous tutorial phrase but the exp points collected during the corresponding tutorial phrase
    - As last phrase of tutorial completed, the player need to collect some rewards and confirm to proceed to the main menu in order to complete the tutorial. <br>If he/she quit without collecting and proceeding, the tutorial will be considered as incomplete. 
    - All the user metrics under ka_devices and ka_users tables except for 'total_spend' will be <b>known and tracked</b> once a new user <b>opens the game for the first time</b>
+   - Assume the game designer wants to give different prices & offers to new users who finished the tutorial based on their engagement levels which are reflected by the exp_stats related metrics
    
 <b>Solutions</b>:
    - Identify potential paid users from the new users who finished tutorial with a <b>classification model</b> based on features that are known by the end of tutorial
