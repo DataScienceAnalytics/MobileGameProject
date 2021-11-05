@@ -1,5 +1,5 @@
 # MobileGameProject
-A mobile game data science project 
+Mobile game data science project - Raymond Peng
 
 <br> Author: Raymond Peng 
 <br> Contact Info: raymond.peng@mail.mcgill.ca
